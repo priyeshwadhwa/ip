@@ -1,0 +1,176 @@
+12 081 201 152
+12081201152
+33 554 432
+
+
+Face book
+
+coding interview
+algorigthm and data
+list trees sorting..
+parctical.. file handling ..text manup
+
+how many questions are .. 
+at least 2
+
+strong language.. 
+best demostrate skill
+defencive language
+
+logic of the problem and code 
+
+leetcode.com
+interviewbit.com
+
+Easy - medium
+
+set a timer.. 30-40
+Any language is fine
+
+
+Systems
+
+debugging and theory
+kernel level -- process, threads, vm, swap, 
+recommend -- linux programming interfaces
+
+2 types
+some part of the system
+troubleshooting question.
+
+what will you check and 
+impossible questions.
+
+3... 
+networking
+
+theory and practical
+layer 3 n 4
+tcp ip / tear downl
+loadbalancing methods
+routing protocols ** not included
+
+Q:
+Network protocol and how it workds
+DNS
+HTTP
+TCP/IP
+Type a web address in web browser 
+
+4.- Systems design
+- large scale solution
+- vague and ambigous question
+- ask a lot of question
+- what are you designing
+- no write / wrong.
+- simple and then add details
+- EX: Updating a lot servers at once.
+- what kind of the servers are they
+- whats the goal
+- no downtime
+- user don't notice.
+- First design decision
+- Tradeoff and why you pick up.
+- Part way changes. 
+
+Using of the shelf tools.
+Third party system 
+
+Simple system. and make it more complex..
+
+5. Soft skills
+- Motivation.
+- Challenge
+- Unstructured and self driven
+- Handle conflict and work out resolution
+- Tell me about a time when the project that has failed
+- proud of a project.
+- push back the tech lead
+- difficult feedback given
+- Why are you looking for PE / scale / 
+- Spend a little bit of time 
+
+BLOG. Projects. List of teams. 
+Seeking SRE. 1 chapter.
+
+STAR -- 
+
+Offer -> 
+Relocation -> 
+
+How to deal with that you don't know ?
+- give a little more information.
+
+
+
+Prepartion Video
+- Coding interview are time constrained
+- You never know what is asked
+- 
+- Preparation and practice.
+- 5 interviews
+ - bold culture.
+ - take risks and make big things
+ - take on the big challenges
+ - COMMUNICATE
+ - repeat the questions.. 
+ -- list the constraints
+ -- discuss the solution don't rush to code.
+ -- python / C++
+ -- 
+ 
+Systems interview
+  - How unix works
+  - how are processes created and destroyed
+  - how processes communicate
+  - how unix file system works
+  - how to troubleshoot at unit system
+
+Networking interview  
+layer 2 -7
+-IP TCP UDP DNS HTTP
+TCP/IP W richards steven
+
+
+Systems design
+-- Scale
+- failure
+- break in to sub modules
+- assumptions
+- NO one big thing. db, 
+
+Behavioral
+- team and individually
+- how you have previously dealt with 
+- what went well
+- what did not went well
+
+
+ 
+ 
+
+
+ including text manipulation, handling input / output, automating tasks, interfacing with external systems / processes,
+ 
+ 
+ : https://leetcode.com/ or https://www.interviewbit.com/
+ 
+ 
+  DNS, web servers, databases, security etc.), storage (RAID types), memory usage, process and threads, kernel,  and general  troubleshooting
+  
+  Linux Internals
+
+
+  •               Process Execution and/or Threads
+
+•               Memory Usage
+
+•               RAID Levels
+
+•               The kernel and how it interacts with other system components
+
+•               System Calls
+
+•               Signals and Signal Handlers
+
+•               Modern Web Architectures and Webservers

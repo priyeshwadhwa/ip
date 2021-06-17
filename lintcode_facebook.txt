@@ -1,0 +1,348 @@
+Medium548. Intersection of Two Arrays II
+29%
+Medium1175. Brick Wall
+55%
+Medium657. Insert Delete GetRandom O(1)
+50%
+Medium599. Insert into a Cyclic Sorted List
+23%
+Easy1745. Monotonic Array
+66%
+Easy1250. Third Maximum Number
+36%
+Easy895. Friend Request
+34%
+Easy1181. Diameter of Binary Tree
+69%
+Medium1563. Shortest path to the destination
+49%
+Medium1874. Kth Smallest Element in a Specific Array
+42%
+Medium1303. H-Index II
+34%
+Medium5. Kth Largest Element
+33%
+Medium1025. Custom Sort String
+68%
+Easy838. Subarray Sum Equals K
+46%
+Easy547. Intersection of Two Arrays
+31%
+Easy1744. Increasing Order Search Tree
+68%
+Medium978. Basic Calculator
+45%
+Hard1514. Robot Room Cleaner
+67%
+Medium919. Meeting Rooms II
+54%
+Easy920. Meeting Rooms
+48%
+Medium1189. Minesweeper
+61%
+Medium821. Time Intersection
+58%
+Medium1707. Knight Dialer
+44%
+Easy1311. Lowest Common Ancestor of a Binary Search Tree
+66%
+Medium1287. Increasing Triplet Subsequence
+63%
+Medium1304. H-Index
+40%
+Medium1463. Paper Review
+26%
+Medium1031. Is Graph Bipartite?
+44%
+Medium1534. Convert Binary Search Tree to Sorted Doubly Linked List
+68%
+Hard1574. Music Playlist
+46%
+Hard1464. The K-th Combination
+58%
+Medium1492. Koko Eating Bananas
+58%
+Easy1240. Path Sum III
+66%
+Medium1022. Valid Tic-Tac-Toe State
+54%
+Hard892. Alien Dictionary
+33%
+Easy720. Rearrange a String With Integers
+37%
+Hard818. Subset With Target
+34%
+Medium719. Calculate Maximum Value
+37%
+Medium1393. Friends Of Appropriate Ages
+39%
+Medium819. Word Sorting
+47%
+Medium1466. Best Shopping Plan
+41%
+Medium853. Number Of Corner Rectangles
+59%
+Medium564. Combination Sum IV
+42%
+Medium1704. Range Sum of BST
+84%
+Easy1495. Leaf-Similar Trees
+70%
+Easy1589. Groups of Special-Equivalent Strings
+67%
+Medium691. Recover Binary Search Tree
+31%
+Medium526. Load Balancer
+48%
+Easy1480. Dot Product
+57%
+Hard543. Kth Largest in N Arrays
+32%
+Medium1874. Kth Smallest Element in a Specific Array
+42%
+Easy1165. Subtree of Another Tree
+49%
+Medium1310. Product of Array Except Self
+74%
+Medium1093. Number of Longest Increasing Subsequence
+35%
+Medium1044. Largest Plus Sign
+48%
+Hard1083. Maximum Sum of 3 Non-Overlapping Subarrays
+49%
+Medium651. Binary Tree Vertical Order Traversal
+43%
+Medium473. Add and Search Word - Data structure design
+29%
+Medium663. Walls and Gates
+52%
+Medium915. Inorder Predecessor in BST
+57%
+Medium448. Inorder Successor in BST
+41%
+Easy539. Move Zeroes
+45%
+Medium744. Sum of first K even-length Palindrome numbers
+60%
+Medium723. Rotate Bits - Left
+68%
+Hard721. Next Sparse Number
+36%
+Medium620. Maximum Subarray IV
+41%
+Medium616. Course Schedule II
+30%
+Medium578. Lowest Common Ancestor III
+33%
+Medium654. Sparse Matrix Multiplication
+68%
+Medium1707. Knight Dialer
+44%
+Medium5. Kth Largest Element
+33%
+Easy838. Subarray Sum Equals K
+46%
+Easy547. Intersection of Two Arrays
+31%
+Easy1240. Path Sum III
+66%
+Hard892. Alien Dictionary
+33%
+Hard1514. Robot Room Cleaner
+67%
+Medium919. Meeting Rooms II
+54%
+Easy920. Meeting Rooms
+48%
+Easy1589. Groups of Special-Equivalent Strings
+67%
+Medium526. Load Balancer
+48%
+Easy1480. Dot Product
+57%
+Medium1287. Increasing Triplet Subsequence
+63%
+Medium1304. H-Index
+40%
+Medium1463. Paper Review
+26%
+Medium1031. Is Graph Bipartite?
+44%
+Medium1534. Convert Binary Search Tree to Sorted Doubly Linked List
+68%
+Hard1574. Music Playlist
+46%
+Hard1464. The K-th Combination
+58%
+Medium1492. Koko Eating Bananas
+58%
+Easy720. Rearrange a String With Integers
+37%
+Hard818. Subset With Target
+34%
+Medium719. Calculate Maximum Value
+37%
+Medium1393. Friends Of Appropriate Ages
+39%
+Medium819. Word Sorting
+47%
+Medium1466. Best Shopping Plan
+41%
+Medium853. Number Of Corner Rectangles
+59%
+Medium564. Combination Sum IV
+42%
+Medium1704. Range Sum of BST
+84%
+Easy1495. Leaf-Similar Trees
+70%
+Medium691. Recover Binary Search Tree
+31%
+Easy895. Friend Request
+34%
+Easy1181. Diameter of Binary Tree
+69%
+Medium1303. H-Index II
+34%
+Easy1745. Monotonic Array
+66%
+Medium657. Insert Delete GetRandom O(1)
+50%
+Medium1175. Brick Wall
+55%
+Medium599. Insert into a Cyclic Sorted List
+23%
+Medium548. Intersection of Two Arrays II
+29%
+Hard543. Kth Largest in N Arrays
+32%
+Easy1115. Average of Levels in Binary Tree
+84%
+Medium1721. Minimum Add to Make Parentheses Valid
+79%
+Hard1395. The Barycentre Of The Trees
+64%
+Hard780. Remove Invalid Parentheses
+41%
+Hard676. Decode Ways II
+37%
+Hard653. Expression Add Operators
+33%
+Hard516. Paint House II
+35%
+Medium178. Graph Valid Tree
+33%
+Hard602. Russian Doll Envelopes
+24%
+Medium911. Maximum Size Subarray Sum Equals k
+51%
+Medium17. Subsets
+31%
+Medium945. Task Scheduler
+58%
+Medium528. Flatten Nested List Iterator
+37%
+Medium148. Sort Colors
+41%
+Medium123. Word Search
+30%
+Medium1186. Encode and Decode TinyURL
+81%
+Easy420. Count and Say
+33%
+Super131. The Skyline Problem
+17%
+Medium428. Pow(x, n)
+36%
+Medium7. Serialize and Deserialize Binary Tree
+31%
+Hard86. Binary Search Tree Iterator
+46%
+Medium57. 3Sum
+24%
+Easy35. Reverse Linked List
+45%
+Easy156. Merge Intervals
+28%
+Medium436. Maximal Square
+35%
+Medium406. Minimum Size Subarray Sum
+33%
+Medium442. Implement Trie (Prefix Tree)
+41%
+Medium30. Insert Interval
+27%
+Hard450. Reverse Nodes in k-Group
+39%
+Easy480. Binary Tree Paths
+39%
+Easy101. Remove Duplicates from Sorted Array II
+32%
+Medium421. Simplify Path
+27%
+Medium88. Lowest Common Ancestor of a Binary Tree
+45%
+Medium95. Validate Binary Search Tree
+26%
+Hard192. Wildcard Matching
+32%
+Medium74. First Bad Version
+39%
+Medium137. Clone Graph
+37%
+Medium32. Minimum Window Substring
+28%
+Easy69. Binary Tree Level Order Traversal
+42%
+Hard510. Maximal Rectangle
+34%
+Easy433. Number of Islands
+33%
+Medium223. Palindrome Linked List
+32%
+Medium124. Longest Consecutive Sequence
+39%
+Medium512. Decode Ways
+26%
+Hard120. Word Ladder
+28%
+Medium15. Permutations
+35%
+Easy141. Sqrt(x)
+28%
+Medium425. Letter Combinations of a Phone Number
+40%
+Medium415. Valid Palindrome
+31%
+Easy408. Add Binary
+28%
+Medium62. Search in Rotated Sorted Array
+33%
+Easy13. Implement strStr()
+22%
+Medium171. Anagrams
+27%
+Easy64. Merge Sorted Array
+38%
+Easy100. Remove Duplicates from Sorted Array
+34%
+Medium107. Word Break
+17%
+Medium104. Merge K Sorted Lists
+35%
+Hard154. Regular Expression Matching
+29%
+Medium149. Best Time to Buy and Sell Stock
+47%
+Easy423. Valid Parentheses
+33%
+Medium419. Roman to Integer
+50%
+Hard134. LRU Cache
+29%
+Medium994. Contiguous Array
+52%
+Easy56. Two Sum
+36%
+Easy1350. Excel Sheet Column Title
+42%
