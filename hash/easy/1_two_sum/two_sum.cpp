@@ -12,7 +12,7 @@
 #include <regex>
 #include <iostream>
 #define CATCH_CONFIG_MAIN
-#include "..\..\catch\catch.hpp"
+#include "../../../catch/catch.hpp"
 using namespace std;
 using namespace Catch;
 
